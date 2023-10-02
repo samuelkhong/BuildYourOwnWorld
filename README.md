@@ -1,6 +1,6 @@
 # Build your own World
 
-This program is a world generator and interactive game where you can explore procedurally generated 2D worlds. You control an avatar and interact with objects, solve puzzles, and explore unique worlds. Below is an overview of the code and its functionality:
+This program is a world generator and interactive game where you can explore procedurally generated 2D worlds. You control an avatar and interact with objects, solve puzzles, and explore unique worlds. Key features include using Object Oriented Principles to optimzie procedureally generated maps. 
 
 ## Overview
 
