@@ -45,8 +45,3 @@ You can save and load your game progress using the following commands:
 - `L`: Load the last saved game state.
 
 The program ensures that loading a game state returns the exact same world as when it was saved.
-
-
-This project is licensed under the [License Name] License - see the `LICENSE.md` file for details.
-
-Please replace `[Your Name]`, `[Contributor Name]`, `[Your University]`, and `[License Name]` with appropriate information. Additionally, make sure to include any specific license you want to use in the `LICENSE.md` file mentioned in the README.
